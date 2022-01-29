@@ -1,0 +1,38 @@
+.taskbook{
+    margin: 3% 0.3% 0% 5%;
+    padding:200px 0px 0px 500px;
+    background-image: url("../image/taskbook.jpg");
+    background-size: cover;
+   
+    height: 810px;
+
+    
+
+
+}  
+.text_tag{
+   
+ 
+
+    width: 80%;
+
+   
+}
+#taskbook_content{
+   
+    height: fit-content;
+
+    display: inline-flex;
+    width: 70%;
+}
+.error{
+    color:red;
+    margin-left: 170px;
+    margin-top: 10px;
+
+}
+.verified{
+    color:green;
+    margin-left: 170px;
+    margin-top: 10px;
+}

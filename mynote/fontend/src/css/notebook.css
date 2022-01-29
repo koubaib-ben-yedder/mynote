@@ -1,0 +1,38 @@
+.notebook{
+    margin: 3% 0.3% 0% 5%;
+    padding:200px 0px 0px 500px;
+
+   background-image:url(../image/notebook.jpg);
+   background-size: cover;
+    height: 810px;
+
+    
+
+
+}  
+.text_notebook{
+   
+ 
+
+    width: 80%;
+
+   
+}
+#content{
+   
+    height: fit-content;
+
+    display: inline-flex;
+    width: 70%;
+}
+.error{
+    color:red;
+    margin-left: 170px;
+    margin-top: 10px;
+
+}
+.verified{
+    color:green;
+    margin-left: 170px;
+    margin-top: 10px;
+}

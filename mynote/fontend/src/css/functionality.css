@@ -1,0 +1,104 @@
+
+.Note{
+
+    margin:30px 0px 50px 0px ;
+ 
+    display: flex;
+    
+}
+
+
+.Task{
+
+    display: flex;
+    margin:30px 0px 50px 0px ;
+   
+}
+.Notebook{
+
+    display: flex;
+    margin:30px 0px 50px 0px ;
+ 
+}
+.Tag{
+
+    display: flex;
+    margin:30px 0px 50px 0px ;
+   
+}
+.note_content{
+
+    margin: 0px 0px 0px 10px ;
+   
+}
+.task_content{
+
+    margin: 0px 0px 0px 10px ;
+  
+}
+.notebook_content{
+
+    margin: 0px 0px 0px 10px ;
+
+}
+.tag_content{
+
+    margin: 0px 0px 0px 10px;
+ 
+}
+.Tagbook{
+
+    display: flex;
+    margin:30px 0px 50px 0px ;
+
+}
+.tagbook_content{
+
+    margin: 0px 0px 0px 10px;
+}
+.Taskbook{
+
+    display: flex;
+    margin:30px 0px 50px 0px ;
+}
+
+.taskbook_content{
+
+    margin: 0px 0px 0px 10px;
+}
+a:visited {
+
+  color: black;
+}
+
+
+
+.home_content{
+
+    margin: 3px 0px 0px 10px;
+
+}
+.home{
+
+    display: flex;
+    margin:30px 0px 50px 0px ;
+}
+
+
+a:hover {
+
+  color: red;
+}
+a:link{
+    color:black;
+}
+
+
+a{
+    text-decoration: none
+}
+.search{
+   
+    display:flex;
+    gap: 5px;
+}

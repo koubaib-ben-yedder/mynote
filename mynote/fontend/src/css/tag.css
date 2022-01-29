@@ -1,0 +1,42 @@
+.tag{
+    margin: 3% 0.3% 0% 5%;
+    padding: 200px  0px 100px 400px;
+    background-image: url("../image/tag.jpg");
+    background-size: cover;
+   
+    height: 810px;
+
+
+
+
+    
+
+
+}  
+
+.text-tag{
+    width: 69%;
+}
+
+.content-tag{
+   
+    display: flex;
+    width: 80%;
+ 
+    justify-content: flex-start;
+    
+  
+  
+
+}
+.error{
+    color:red;
+    margin-left: 170px;
+    margin-top: 10px;
+
+}
+.verified{
+    color:green;
+    margin-left: 170px;
+    margin-top: 10px;
+}
